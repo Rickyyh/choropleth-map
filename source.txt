@@ -1,2 +1,0 @@
-https://github.com/superpikar/indonesia-geojson
-https://www.kaggle.com/hendratno/covid19-indonesia
